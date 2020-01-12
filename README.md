@@ -1,10 +1,11 @@
-This repository contains guitar TABs that I've transcribed myself, primarily in the
-stoner/doom/sludge metal genres.
+This repository contains guitar TABs that I've transcribed myself, primarily in the stoner, doom,
+and sludge metal genres.
 
-PLEASE NOTE: I did NOT compose any of these songs myself, nor do I claim copyright on them. I DID
-transcribe them myself, however, and I DO claim copyright on the transcriptions. I do NOT guarantee
-their accuracy.
+Please note that I did not compose any of these songs myself, nor do I claim copyright on them. I
+did transcribe them myself, however, and I do claim copyright on the transcriptions. I do not
+guarantee their accuracy. I do welcome any corrections and/or feedback!
 
-For questions/comments: seidemiller@gmail.com
+Email: seidemiller@gmail.com
+Web: http://www.dyingsuneffects.com
 
--Sean
+Copyright 2020 Sean Eidemiller
