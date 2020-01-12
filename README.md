@@ -6,6 +6,7 @@ did transcribe them myself, however, and I do claim copyright on the transcripti
 guarantee their accuracy. I do welcome any corrections and/or feedback!
 
 Email: seidemiller@gmail.com
+
 Web: http://www.dyingsuneffects.com
 
 Copyright 2020 Sean Eidemiller
