@@ -1,6 +1,6 @@
 ## Transcriptions
 
-All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the former). None were derived from existing transcriptions.
+All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
 Elder - [Lore](https://github.com/doomsean/transcriptions/blob/master/Elder/Elder%20-%20Lore.txt)
 
