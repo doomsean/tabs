@@ -8,49 +8,6 @@ Instrument: Guitar I and II
 Tuning: Drop C (CGCFAD)
 Length: 15:58
 
-Transcribed by slowing down the album to half-speed and corroborated with multiple different
-sources of live video footage.
-
-Guitar I is panned slightly left and is usually double-tracked in the heavier parts. The
-intermission, bridge, and the parts leading up to and immediately after the solo [7:57-13:38] are
-played with a capo on the 3rd fret. For maximum effect, throw the capo at someone in the crowd when
-no longer needed.
-
-Guitar II is panned slightly right. It generally tracks or harmonizes with Guitar I. Divergences
-from Guitar I are explicitly marked below. Guitar II can be played without a capo.
-
-Note: I don't like bending with a capo (tuning stability), so if I were playing this live with
-another guitarist, I'd have Guitar II play the solo.
-
-With regard to tone, NDS mentioned in an interview that Lore was recorded with an early-70s
-Marshall JMP.
-
-"The heavy guitars in that album were all done with the JMP mentioned above! The base crunch sound
-is just the amp and the more saturated fuzz sounds came from stacking pedals on top of it. I use a
-Black Arts Toneworks Pharaoh for my rhythm fuzz sound and am always switching out other pedals for
-lead sounds."
-
-Source: https://gearandloathinginsandiego.com/tag/nick-disalvo/
-
-He has since contradicted this, however, implying that the album was recorded with his 100w Sound
-City head that was modded to DR103 spec. He said this *after* becoming a Hiwatt endorsee, however,
-so I'm inclined to believe that it actually was the Marshall. The earlier Elder albums sound more
-Hiwatt-ish, but not Lore (and not Reflections either).
-
-Source: https://www.youtube.com/watch?v=0ZIlfBPtZKg
-
-Also likely used on this track are the following effects...
-
-Black Arts Toneworks Phararoh
-Dunlop MC404 CAE Wah
-Earthquaker Devices Dispatch Master
-Earthquaker Devices Grand Orbiter (or some kind of phaser; but he now uses this one)
-
-Anyway! I spent multiple weeks on this transcription and I believe it to be very accurate. If you
-notice any errors or discrepancies, however, please let me know.
-
-Enjoy!
-
 ==== [0:00] ====
 
 Guitar I
@@ -156,7 +113,7 @@ G|------------------------------------------------------------------------||
 C|-0----------------------------------------------------------------------||
                                       *sweep up *sweep up
 
-Guitar II (possible harmony)
+Guitar II
 
 D||---------------0----------8---------------3----------3-----3-------|
 A||---------6----------6-------6---------------3----------3-----3-----|
@@ -253,9 +210,9 @@ Heavy crunch with phaser.
 D||----------------------------------------------------------------------------|
 A||---------------------------------------------6---6------6---6------6---6----|
 F||---------------------------------------------7---7------7---7------7---7----|
-C||-7---7------7---7------7---7------7---7------9---9------9---9------9---9----|
+C||-7---7------7---7------7---7------7---7------x---x------x---x------x---x----|
 G||-9---9------9---9------9---9------9---9------8---8------8---8------8---8----|
-C||-0---0------0---0------0---0------0---0------0---0------0---0------0---0----|
+C||-0---0------0---0------0---0------0---0-----(0)-(0)----(0)-(0)----(0)-(0)---|
 
 D|--------------------------|
 A|--------------------------|
@@ -268,9 +225,9 @@ C|-----------------0-3-5^~--|
 D|----------------------------------------------------------------------------|
 A|---------------------------------------------6---6------6---6------6---6----|
 F|---------------------------------------------7---7------7---7------7---7----|
-C|-7---7------7---7------7---7------7---7------0---0------0---0------0---0----|
+C|-7---7------7---7------7---7------7---7------x---x------x---x------x---x----|
 G|-9---9------9---9------9---9------9---9------8---8------8---8------8---8----|
-C|-0---0------0---0------0---0------0---0------0---0------0---0------0---0----|
+C|-0---0------0---0------0---0------0---0-----(0)-(0)----(0)-(0)----(0)-(0)---|
    *phaser on
                     *slight damping
 D|----------------------------||
