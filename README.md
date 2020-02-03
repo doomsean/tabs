@@ -2,8 +2,8 @@
 
 All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
-Elder - [Compendium](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/01%20-%20Compendium.txt)  
-Elder - [Lore](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/03%20-%20Lore.txt)
+Elder - [Compendium](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/01%20Compendium.txt)  
+Elder - [Lore](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/03%20Lore.txt)
 
 ## Disclaimer
 
