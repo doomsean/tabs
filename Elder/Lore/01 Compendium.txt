@@ -8,6 +8,8 @@ Instrument: Guitar I and II
 Tuning: Drop C (CGCFAD)
 Length: 10:39
 
+==== Notes ====
+
 Unless otherwise noted, I would describe the tone of all guitar parts on this track as a heavy,
 saturated crunch. Refer to the accompanying notes file for additional information.
 
@@ -594,7 +596,7 @@ G|-7~--7-7-7-7-7/8\7-7~--7\5-5/7-7-(0)-----7---------7-------5-------3---5----7-
 C|-7~--7-7-7-7-7/8\7-7~--7\5-5/7-7-(0)-------------------------------------------------|
        PM.....
 
-==== [6:14} ====
+==== [6:14] ====
 
 -- Guitar I and II --
 
@@ -681,7 +683,7 @@ C|-0-0---0---------0-0---0---------0-0---0----------0-0---0-10---10~--|
 Heavy crunch with reverb and delay.
 
 NOTE: This solo seems quite a bit faster and more complex because of the heavy delay. For example,
-it *sounds* like the first part is played four times in rapid succession, but it's actually...
+it /sounds/ like the first part is played four times in rapid succession, but it's actually...
 
 [once] <delay repeat> [twice] <delay repeat>
 
@@ -988,7 +990,7 @@ Same as Guitar I at index [2:01]; omit Riff A at the end.
 
 Same as Guitar II at index [2:01]; omit Riff B at the end.
 
-***
+///
 
 Transcription copyright 2020 Sean Eidemiller (seidemiller@gmail.com).
 
