@@ -6,7 +6,7 @@ Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020)
 
 Instrument: Guitar I and II
 Tuning: D Standard (DGCFAD)
-Key/Scale: Dm
+Key/Scale: Dm Dorian
 Length: 9:28
 
 ==== Notes ====

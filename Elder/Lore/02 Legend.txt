@@ -6,7 +6,7 @@ Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020)
 
 Instrument: Guitar I and II
 Tuning: Drop C (CGCFAD)
-Key/Scale: G Aeolian
+Key/Scale: Gm Aeolian
 Length: 12:31
 
 ==== Notes ====
@@ -15,13 +15,13 @@ Guitar I is mostly double-tracked throughout the entire song, particularly when 
 diverges from Guitar II. When the parts are roughly the same, it sounds like Guitar I maybe
 /isn't/ double-tracked. It's a bit difficult to discern given the density of the recording.
 
-Also, upstrokes and downstrokes are noted in places where it may not be obvious. These generally
-adhere to Nick DiSalvo's live performance (and what seems easiest to me).
-
 The various guitar tones and effects aren't terribly difficult to figure out. It sounds like the
 same base crunch tone from the rest of the album, with occasional use of fuzz and manipulation of
 the volumne knob on the guitar. Delay and reverb are used heavily throughout. Refer to the
 accompanying notes file for additional information.
+
+Finally, upstrokes and downstrokes are noted in places where it may not be obvious. These generally
+adhere to Nick DiSalvo's live performance (and what seems easiest to me).
 
 ==== [0:00] ====
 

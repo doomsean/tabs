@@ -10,7 +10,7 @@ Length: 15:58
 
 ==== [0:00] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy, compressed crunch; high volume.
 
@@ -37,7 +37,7 @@ C|-0---------------------------------------------|
 
 ==== [0:38] ====
 
-Guitar I
+-- Guitar I --
 
 Gritty crunch with volume rolled back; lots of reverb and delay; let notes ring.
 
@@ -65,7 +65,7 @@ C|------------------------------------------------------------------------------
 
 ==== [1:19] ====
 
-Guitar I
+-- Guitar I --
 
 Gritty crunch with volume rolled back a bit; let notes ring.
 
@@ -93,7 +93,7 @@ RIFF A x2
 
 ==== [1:45] ====
 
-Guitar I
+-- Guitar I --
 
 Gritty crunch with volume rolled back a bit; let notes ring.
 
@@ -113,7 +113,7 @@ G|------------------------------------------------------------------------||
 C|-0----------------------------------------------------------------------||
                                       *sweep up *sweep up
 
-Guitar II
+-- Guitar II --
 
 D||---------------0----------8---------------3----------3-----3-------|
 A||---------6----------6-------6---------------3----------3-----3-----|
@@ -131,7 +131,7 @@ C|-0-------------------------------------------------------------------||
 
 ==== [2:36] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch; volume at/near full.
 
@@ -142,7 +142,7 @@ C|---------||------------------------------------------||
 G|-7-5-3---||-0---0------0---0------0---0------0---0---||
 C|---------||-0---0------0---0------0---0------0---0---||
 
-Guitar II [2:41] and [2:51]
+-- Guitar II [2:41] and [2:51] --
 
 Heavy crunch; let notes ring; slight vibrato.
 
@@ -164,7 +164,7 @@ C|--------------------------|
 
 ==== [2:56] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch; volume at/near full.
 
@@ -203,7 +203,7 @@ Guitar II silent for first play-through; tracks w/Guitar I on second play-throug
 
 ==== [3:47] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch with phaser.
 
@@ -240,7 +240,7 @@ C|-----------------(0)--------||
 
 ==== [4:28] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch; no more phaser.
 
@@ -253,13 +253,13 @@ C|-0---0------0---0------0---0---0----------x-2---3---5---7--0--10-/12~-----|
 
 ==== [4:36] ====
 
-Guitar I
+-- Guitar I --
 
 RIFF A x2
 
 ==== [5:01] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch with fuzz.
 
@@ -281,7 +281,7 @@ C|-0---0-0---0-0-0-0-0---(0)--------(0)-3---5---7---3---2p0-----||
 
 ==== [5:51] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch with fuzz.
 
@@ -317,7 +317,7 @@ G|-3---3---0-0-0-3---3~----3---5---7---3---2---3---2----------|
 C|---------0-0-0---------------------------------------5~-----|
            PM---           *start slowing down         *hold
 
-Guitar II
+-- Guitar II --
 
 Same effects/style as Guitar I above.
 
@@ -361,7 +361,7 @@ Long ambient intermission w/reverb and delay, volume swells, etc...
 
 ==== [7:57] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Gritty clean w/reverb and delay; volume and gain slowly increase; let notes ring.
 
@@ -376,7 +376,7 @@ C||-----------------------------||       |-------------------------------|
 
 :END RIFF B
 
-Guitar II
+-- Guitar II --
 
 Same effects/style as Guitar I above.
 
@@ -395,7 +395,7 @@ Both guitars repeat respective parts until...
 
 ==== [9:57] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Heavy crunch w/reverb.
 
@@ -427,7 +427,7 @@ C|-x-x-x-x-x-x-x-x-x-x-x-x-x-7-7-7-7-7-7-7------|
 G|-0-0-0-0-0-0-0-0-0-0-0-0-0--------------------|
 C|----------------------------------------------|
 
-Guitar II (possible harmony)
+-- Guitar II (possible harmony) --
 
 Heavy crunch.
 
@@ -461,13 +461,13 @@ C|-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10------|
 
 ==== [10:16] ====
 
-Guitar I and II
+-- Guitar I and II --
 
 RIFF B and C w/more gain + phaser/wah (?) in last part of each repeat.
 
 ==== [11:04] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Heavy crunch; let notes ring.
 
@@ -497,7 +497,7 @@ Guitar II is mostly tracking but sometimes overlaying subtle harmonization.
 
 ==== [11:43] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Heavy crunch; let notes ring.
 
@@ -524,7 +524,7 @@ C|-----------------------------------------------------------------|
 
 ==== [12:17] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Heavy crunch with fuzz.
 
@@ -555,11 +555,11 @@ C|-0---0-2---2-5---5-3-3-3---3-3-3---3-3-3---3-3-x-||
 
 ==== [12:39] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 RIFF D x2
 
-Guitar II
+-- Guitar II --
 
 Heavy crunch w/light reverb.
 
@@ -591,12 +591,12 @@ C|-10----8-8------8h10------------------------------------|
 G|----10-----10p8-----------------------------------------|
 C|--------------------------------------------------------|
 
-Note: When you slow down the recording, you can easily tell where the different takes were spliced
+NOTE: When you slow down the recording, you can easily tell where the different takes were spliced
 together for the solo. He didn't nail it in one go. :-)
 
 ==== [13:02] ====
 
-Guitar I (capo 3rd fret)
+-- Guitar I (capo 3rd fret) --
 
 Heavy crunch with fuzz; let notes ring.
 
@@ -625,7 +625,7 @@ C|-1------1------0------0------0------0------0------0------|
 
 ==== [13:51] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch with fuzz.
 
@@ -678,7 +678,7 @@ C|------------------------------------|
 
 ==== [14:40] ====
 
-Guitar I
+-- Guitar I --
 
 Heavy crunch with fuzz.
 
@@ -696,7 +696,7 @@ C|-3-3-3-3----3-3-3-3----5-5-5-5----5-5-5-5----||
 G|-3-3-3-3----3-3-3-3----5-5-5-5----5-5-5-5----||
 C|-3-3-3-3----3-3-3-3----5-5-5-5----5-5-5-5----||
 
-Guitar II
+-- Guitar II --
 
 Heavy crunch w/reverb and delay.
 
@@ -713,6 +713,8 @@ F|-------------------------------4p0---------------|| repeat until end
 C|-------------------------------------------------||
 G|-------------------------------------------------||
 C|-------------------------------------------------||
+
+///
 
 Transcription copyright 2020 Sean Eidemiller (seidemiller@gmail.com).
 
