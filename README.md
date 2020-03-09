@@ -4,14 +4,15 @@ All of the tracks listed below were transcribed, by me, from primary sources onl
 
 #### Elder - Lore
 
-Elder - [Compendium](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/01%20Compendium.txt)  
-Elder - [Legend](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/02%20Legend.txt)  
-Elder - [Lore](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/03%20Lore.txt)  
-Elder - [Deadweight](https://github.com/doomsean/transcriptions/blob/master/Elder/Lore/04%20Deadweight.txt)
+Elder - [Compendium](https://github.com/doomsean/tabs/blob/master/Elder/Lore/01%20Compendium.txt)  
+Elder - [Legend](https://github.com/doomsean/tabs/blob/master/Elder/Lore/02%20Legend.txt)  
+Elder - [Lore](https://github.com/doomsean/tabs/blob/master/Elder/Lore/03%20Lore.txt)  
+Elder - [Deadweight](https://github.com/doomsean/tabs/blob/master/Elder/Lore/04%20Deadweight.txt)
+Elder - [Spirit at Aphelion](https://github.com/doomsean/tabs/blob/master/Elder/Lore/05%20Spirit%20at%20Aphelion.txt)
 
 #### Elder - Omens
 
-Elder - [Embers](https://github.com/doomsean/transcriptions/blob/master/Elder/Omens/04%20Embers.txt)
+Elder - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)
 
 ## Disclaimer
 
