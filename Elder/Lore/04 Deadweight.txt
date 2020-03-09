@@ -382,8 +382,8 @@ D|-------------------------------------------------------|
 
 NOTE: I'm just guessing at the picking pattern in the last bar. It's very hard to tell with the wah
 and the delay going simultaneously. The above will definitely sound "right," however. Also note
-that the solo extends a bit beyond index [4:14] below. Guitar II will come in slightly later than
-Guitar I as a result.
+that the solo extends a bit beyond [4:14] below. Guitar II will come in slightly later than Guitar 
+I as a result.
 
 ==== [4:14] ====
 
@@ -443,7 +443,7 @@ RIFF E x2
 
 -- Guitar II --
 
-NOTE: Comes in at index [5:21].
+NOTE: Comes in at [5:21].
 
 D|-------------------------------------------------------------|
 A|-------------------------10------9~--------------------------|
@@ -492,7 +492,7 @@ D|------------------------------------------------------||
 
 -- Guitar I --
 
-RIFF F until index [6:29], or possibly record a loop of RIFF F during the pre-solo above and play
+RIFF F until [6:29], or possibly record a loop of RIFF F during the pre-solo above and play
 Guitar III here.
 
 -- Guitar II --
@@ -646,11 +646,11 @@ D|------------------------------------------------------------------|
 
 -- Guitar I --
 
-Same as Guitar I part at index [1:37].
+Same as Guitar I part at [1:37].
 
 -- Guitar II --
 
-Same as Guitar II part at index [1:37].
+Same as Guitar II part at [1:37].
 
 ///
 
