@@ -4,7 +4,7 @@ All of the tracks listed below were transcribed, by me, from primary sources onl
 
 #### Elder - Spires Burn / Release (EP)
 
-Elder - [Release](https://github.com/doomsean/tabs/blob/master/Elder/Spires/02%20Relese.txt)
+Elder - [Release](https://github.com/doomsean/tabs/blob/master/Elder/Spires/02%20Release.txt)
 
 #### Elder - Lore
 
