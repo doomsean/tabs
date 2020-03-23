@@ -2,6 +2,10 @@
 
 All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
+#### Elder - Spires Burn / Release (EP)
+
+Elder - [Release](https://github.com/doomsean/tabs/blob/master/Elder/Spires/02%20Relese.txt)
+
 #### Elder - Lore
 
 Elder - [Compendium](https://github.com/doomsean/tabs/blob/master/Elder/Lore/01%20Compendium.txt)  
