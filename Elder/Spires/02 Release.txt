@@ -18,7 +18,7 @@ standard three dashes. And what would normally be denoted as triplets are denote
 notes (one dash).
 
 Tonally speaking, this track sounds like it was recorded with Nick DiSalvo's Gibson SG into a
-Hiwatt circuit (likely the Sound City 100 that was modded to DR103 spec). There's a heavy crunch
+Hiwatt circuit; likely the Sound City 120 that was modded to DR103 spec. There's a heavy crunch
 tone throughout, maybe with a bit of fuzz from a BAT Pharaoh (diodes lifted?). And certainly
 there's a lot of reverb and delay in many parts as well. And wah... lots of wah, especially in
 the solos, and especially when played live.
