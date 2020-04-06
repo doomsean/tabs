@@ -2,11 +2,12 @@
 
 All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
-#### Elder - Spires Burn / Release (EP)
+#### Elder - Spires Burn / Release (2012)
 
+Elder - [Spires Burn](https://github.com/doomsean/tabs/blob/master/Elder/Spires/01%20Spires%20Burn.txt)  
 Elder - [Release](https://github.com/doomsean/tabs/blob/master/Elder/Spires/02%20Release.txt)
 
-#### Elder - Lore
+#### Elder - Lore (2015)
 
 Elder - [Compendium](https://github.com/doomsean/tabs/blob/master/Elder/Lore/01%20Compendium.txt)  
 Elder - [Legend](https://github.com/doomsean/tabs/blob/master/Elder/Lore/02%20Legend.txt)  
@@ -14,7 +15,7 @@ Elder - [Lore](https://github.com/doomsean/tabs/blob/master/Elder/Lore/03%20Lore
 Elder - [Deadweight](https://github.com/doomsean/tabs/blob/master/Elder/Lore/04%20Deadweight.txt)  
 Elder - [Spirit at Aphelion](https://github.com/doomsean/tabs/blob/master/Elder/Lore/05%20Spirit%20at%20Aphelion.txt)
 
-#### Elder - Omens
+#### Elder - Omens (2020)
 
 Elder - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)
 
