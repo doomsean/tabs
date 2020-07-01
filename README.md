@@ -19,6 +19,10 @@ Elder - [Spirit at Aphelion](https://github.com/doomsean/tabs/blob/master/Elder/
 
 Elder - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)
 
+#### Weedpecker - III (2018)
+
+Weedpecker - [Liquid Sky](https://github.com/doomsean/tabs/blob/master/Weedpecker/III/03%20Liquid%20Sky.txt)
+
 ## Disclaimer
 
 I did not compose any of these works myself, nor do I claim copyright on them. I did transcribe them myself, however, and I do claim copyright on the transcriptions. I do not guarantee their accuracy. I do welcome any corrections and/or feedback!
