@@ -2,6 +2,10 @@
 
 All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
+#### Elder - Dead Roots Stirring (2011)
+
+Elder - [Dead Roots Stirring](https://github.com/doomsean/tabs/blob/master/Elder/DRS/02%20Dead%20Roots%20Stirring.txt)
+
 #### Elder - Spires Burn / Release (2012)
 
 Elder - [Spires Burn](https://github.com/doomsean/tabs/blob/master/Elder/Spires/01%20Spires%20Burn.txt)  
