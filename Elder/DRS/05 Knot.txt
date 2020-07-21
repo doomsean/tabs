@@ -849,6 +849,8 @@ Guitar I since that's what Nick plays live.
 NOTE: Don't pay too much attention to the note spacing here. It's a fast solo with multiple 16th
 note runs -- too many to individually annotate. Listen to the recording for timing.
 
+Very likely a bit of subtle wah throughout the entire solo.
+
 D|-------------------------------------|
 A|-5-----5-----5-----------------------|
 F|-7b9---7b9---7b9---5~---5-------5~---|
