@@ -22,6 +22,10 @@ Elder - [Lore](https://github.com/doomsean/tabs/blob/master/Elder/Lore/03%20Lore
 Elder - [Deadweight](https://github.com/doomsean/tabs/blob/master/Elder/Lore/04%20Deadweight.txt)  
 Elder - [Spirit at Aphelion](https://github.com/doomsean/tabs/blob/master/Elder/Lore/05%20Spirit%20at%20Aphelion.txt)
 
+#### Elder - Reflections of a Floating World (2017)
+
+Elder - [Blind](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/04%20Blind.txt)
+
 #### Elder - Omens (2020)
 
 Elder - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)
