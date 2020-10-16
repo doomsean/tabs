@@ -4,6 +4,7 @@ All of the tracks listed below were transcribed, by me, from primary sources onl
 
 #### Elder - Dead Roots Stirring (2011)
 
+Elder - [Gemini](https://github.com/doomsean/tabs/blob/master/Elder/DRS/01%20Gemini.txt)
 Elder - [Dead Roots Stirring](https://github.com/doomsean/tabs/blob/master/Elder/DRS/02%20Dead%20Roots%20Stirring.txt)  
 Elder - [III](https://github.com/doomsean/tabs/blob/master/Elder/DRS/03%20III.txt)  
 Elder - [The End](https://github.com/doomsean/tabs/blob/master/Elder/DRS/04%20The%20End.txt)  
