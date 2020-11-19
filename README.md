@@ -2,6 +2,10 @@
 
 All of the tracks listed below were transcribed, by me, from primary sources only -- live video footage and studio recordings (with a preference given to the latter). None were derived from existing transcriptions.
 
+#### Elder - Elder (2008)
+
+Elder - [Ghost Head](https://github.com/doomsean/tabs/blob/master/Elder/Elder/04%20Ghost%20Head.txt)
+
 #### Elder - Dead Roots Stirring (2011)
 
 Elder - [Gemini](https://github.com/doomsean/tabs/blob/master/Elder/DRS/01%20Gemini.txt)  
