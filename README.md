@@ -4,6 +4,7 @@ All of the tracks listed below were transcribed, by me, from primary sources onl
 
 #### Elder - Elder (2008)
 
+Elder - [White Walls](https://github.com/doomsean/tabs/blob/master/Elder/Elder/01%20White%20Walls.txt)  
 Elder - [Ghost Head](https://github.com/doomsean/tabs/blob/master/Elder/Elder/04%20Ghost%20Head.txt)
 
 #### Elder - Dead Roots Stirring (2011)
