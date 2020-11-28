@@ -6,6 +6,7 @@ All of the tracks listed below were transcribed, by me, from primary sources onl
 
 Elder - [White Walls](https://github.com/doomsean/tabs/blob/master/Elder/Elder/01%20White%20Walls.txt)  
 Elder - [Hexe](https://github.com/doomsean/tabs/blob/master/Elder/Elder/02%20Hexe.txt)  
+Elder - [Riddle of Steel pt. 1](https://github.com/doomsean/tabs/blob/master/Elder/Elder/03%20Riddle%20of%20Steel%20pt1.txt)  
 Elder - [Ghost Head](https://github.com/doomsean/tabs/blob/master/Elder/Elder/04%20Ghost%20Head.txt)
 
 #### Elder - Dead Roots Stirring (2011)
