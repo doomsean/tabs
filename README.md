@@ -34,6 +34,7 @@ Elder - [Spirit at Aphelion](https://github.com/doomsean/tabs/blob/master/Elder/
 #### Elder - Reflections of a Floating World (2017)
 
 Elder - [The Falling Veil](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/02%20The%20Falling%20Veil.txt)  
+Elder - [Staving off Truth](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/03%20Staving%20off%20Truth.txt)  
 Elder - [Blind](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/04%20Blind.txt)
 
 #### Elder - Omens (2020)
