@@ -40,7 +40,7 @@ Elder - [Blind](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/0
 #### Elder - Omens (2020)
 
 Elder - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)  
-Elder - [One Light Retreating](https://github.com/doomsean/tabs/blob/master/Elder/Omens/06%20One%20Light%20Retreating.txt)
+Elder - [One Light Retreating](https://github.com/doomsean/tabs/blob/master/Elder/Omens/05%20One%20Light%20Retreating.txt)
 
 #### Weedpecker - III (2018)
 
