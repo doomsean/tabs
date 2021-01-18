@@ -10,15 +10,20 @@ Length: 10:47
 
 ==== Notes ====
 
-Elder released this track on 24 February 2020 as a preview of the new album (Omens). As of right
-now (04 March 2020), there's currently no live video footage of the band playing it; not that I'm
-aware of, in any case. When video does begin to surface, there may be slight revisions made to the
-transcription below. I feel pretty confident about its accuracy, however -- especially the solos.
+As of right now (January 2021), there exists no live video footage of the band playing any of the
+tracks from Omens. Because of this, I can't be sure that what I've transcribed below is entirely
+accurate. I believe the *notes* to be mostly correct (except for the few parts that are difficult
+to hear, which I've highlighted), but I don't know that Nick and Michael are playing their
+respective parts the same way (in the same part of the neck, for example). Ergo, when video does
+begin to surface, there may be slight revisions made to the transcription.
 
-Unlike Reflections, I don't hear any fuzz on this track. To me, it sounds like a guitar with
-low/medium-output humbuckers plugged straight into a cranked Marshall Plexi circuit. Of course
-there's the usual reverb/delay in many places (EQD Dispatch Master?), obvious use of the guitar's
-volume knob, and also a phaser at one point. In short, it seems very simple.
+Tonally speaking, Nick and Michael recently did a "Rig Rundown" with Premier Guitar in which they
+describe the guitars, amps, and pedals used to record the album...
+
+https://www.youtube.com/watch?v=5uFAFBF59vg
+
+Generally speaking, Guitar I is on the left (in the mix) and Guitar II is on the right.
+Occasionally, however, one or the other is positioned more to the center.
 
 ==== [0:02] ====
 
