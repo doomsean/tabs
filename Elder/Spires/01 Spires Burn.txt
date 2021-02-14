@@ -40,7 +40,7 @@ C|------------10h12--h12-11~-----10~----\|
 
 :BEGIN PART A-I
 
-NOTE: Some of vibrato notes may just be single notes (on the low C string) vs. power chords.
+NOTE: Some of the vibrato notes may just be single notes (on the low C string) vs. power chords.
 
 D|-----------------------------------|
 A|-----------------------------------|
