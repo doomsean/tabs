@@ -135,7 +135,7 @@ fret (6th string) near the end (just before the transition to the next part). An
 something like the following while sweeping the wah, it will sound good/right. Think about the
 strumming in groups of six (count to six over and over again (or three, if you prefer)).
 
-    d u d u d u...
+    Harmonic Slide maybe?
 D||-------------------------------------------------||
 A||-------------------------------------------------||
 F||-------------------------------------------------|| x3
