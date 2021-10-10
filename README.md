@@ -64,6 +64,6 @@ I did not compose any of these works myself, nor do I claim copyright on them. I
 
 Email: [seidemiller@gmail.com](mailto:seidemiller@gmail.com)  
 Web: [https://www.dyingsuneffects.com](https://www.dyingsuneffects.com)  
-Instagram: [@dyingsuneffects](https://www.instagram.com/dyingsuneffect)
+Instagram: [@dyingsuneffects](https://www.instagram.com/dyingsuneffects)
 
 Copyright 2021 Sean Eidemiller
