@@ -337,7 +337,7 @@ G||----------------------------------------------|
 C||-0----------0-0----0------------0---------(0)-|
 
 NOTE: The 4th string (open) may not be muted with every strum here, though it does seem like it's
-_mostty_ muted throughout. Also, the slide is delayed. strum the 7x5, hold for roughtly half of
+_mostly_ muted throughout. Also, the slide is delayed. strum the 7x5, hold for roughtly half of
 a beat, slide up to 14x12, hold another half beat (don't pick), and then pick the second 14x12.
 
                               *not picked
