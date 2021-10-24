@@ -43,7 +43,7 @@ Thank you, and enjoy!
 02 - [The Falling Veil](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/02%20The%20Falling%20Veil.txt)  
 03 - [Staving off Truth](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/03%20Staving%20off%20Truth.txt)  
 04 - [Blind](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/04%20Blind.txt)  
-06 - Thousand Hands (coming soon!)
+06 - [Thousand Hands](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/06%20Thousand%20Hands.txt)
 
 #### Elder - Omens (2020)
 
