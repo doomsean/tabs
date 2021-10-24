@@ -213,7 +213,7 @@ C|-----------------------------------------------------------|
 NOTE: I think Nick may be playing around with the chord voicings a bit in each play-through. For
 example, I don't hear the 2nd fret on the fourth string (a D) in the second chord on the first
 play-through, but I _do_ hear it in the next play-through, and then again in the following
-arpeggio. Perhaps I'm mistaken. It will sounds fine either way!
+arpeggio. Perhaps I'm mistaken. It will sound fine either way!
 
 D|--------------0------------------------------------|
 A|--------------1------------------------------------|
