@@ -625,7 +625,6 @@ C|-2---------2---------2---------|
 G|-2---------2---------2---------|
 C|-2---------2---------2---------|
 
-
 ==== [5:00] ====
 
 NOTE: Guitar I and II from the previous section are still going at this point, so it's a different
@@ -658,7 +657,7 @@ of effects, similar to the intro (see note at 0:00).
 
 -- Guitar I --
 
-NOTE: I may not be 100% correct on where it's the open 3rd string the the 2nd fret on the fourth
+NOTE: I may not be 100% correct on where it's the open 3rd string or the 2nd fret on the fourth
 string. Honestly, though, it doesn't matter too much. Both notes are part of the chord.
 
 Acoustic guitar or clean electric.
@@ -705,6 +704,8 @@ in this case because it's what Michael plays live (while Nick plays the solo).
 
 NOTE: Nick often shakes the neck while allowing the harmonics to sustain, giving it a sort of
 natural wobble effect. It also sounds like there may be a subtle tremolo?
+
+Heavy crunch/fuzz with reverb and delay.
 
     *starts on up beat
 D|-------------------------------------------------------------|
@@ -767,7 +768,26 @@ G|-------------------------12---12h14------------h14------------|
 C|--------------------------------------------------------------|
                                            |.......|
 
-TODO: Finish the last few seconds; currently at @7:33.
+D|----------------------------------|
+A|---------------12----12---12---12-|
+F|----12-14-14~-----14--------------|
+C|-14-------------------------------|
+G|----------------------------------|
+C|----------------------------------|
+
+NOTE: Either it's starting to fall apart a bit at the third quartet of 16th notes (certainly
+possible), or he's playing something slightly different? It's hard to tell with the delay.
+Personally, I play the exact same pattern four times. That's _probably_ what's happening on the
+recording as well.
+
+                                                                   *slow release
+D|-12h15p12----12h15p12----12h15p12----12h15p12-18b20---18b20---18b20------|
+A|---------h15---------h15---------h15-------------------------------------|
+F|-------------------------------------------------------------------------|
+C|-------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------|
+C|-------------------------------------------------------------------------|
+   |..........................................| ^       ^       ^
 
 -- Guitar II --
 
