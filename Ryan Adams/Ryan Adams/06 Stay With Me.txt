@@ -12,7 +12,7 @@ Length: 3:06
 
 ==== Notes ====
 
-Reminder: all fret numbers are relative to the capo except for the solo(s).
+Reminder: all fret numbers are relative to the capo.
 
 Guitar I is either in the center or on the left (in the mix), and Guitar II, when present, is on
 the right. In this particular song, Guitar I feels very slightly right-of-center when it's the

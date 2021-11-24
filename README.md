@@ -54,7 +54,7 @@ Thank you, and enjoy!
 
 #### Ryan Adams - Ryan Adams (2014)
 
-06 - [Stay With Me]((https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Ryan%20Adams/06%20Stay%20With%20Me.txt)
+06 - [Stay With Me](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Ryan%20Adams/06%20Stay%20With%20Me.txt)
 
 #### Weedpecker - III (2018)
 
