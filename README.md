@@ -52,6 +52,10 @@ Thank you, and enjoy!
 04 - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)  
 05 - [One Light Retreating](https://github.com/doomsean/tabs/blob/master/Elder/Omens/05%20One%20Light%20Retreating.txt)
 
+#### Ryan Adams - Ryan Adams (2014)
+
+06 - [Stay With Me]((https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Ryan%20Adams/06%20Stay%20With%20Me.txt)
+
 #### Weedpecker - III (2018)
 
 03 - [Liquid Sky](https://github.com/doomsean/tabs/blob/master/Weedpecker/III/03%20Liquid%20Sky.txt)
