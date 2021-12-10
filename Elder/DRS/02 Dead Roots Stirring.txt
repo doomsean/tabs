@@ -6,22 +6,19 @@ Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020)
 
 Instrument: Guitar I and II
 Tuning: D Standard (DGCFAD)
-Key: Dm
+Key: D Mixolydian
 BPM: 121
 Length: 12:00
 
 ==== Notes ====
 
-This song is particularly interesting because, while it's in D minor -- most of the chords are from
-Dm and it "feels" minor, like all Elder songs -- the I and IV chords (D and G, respectively) are
-*always* substituted from the parallel major key. I guess you could think of it as a sort of hybrid
-key, perhaps? So, if you're jamming or comping on the chords, remember that the D and the G are
-both major... always. There's also a killer solo near the end that's entirely in D major.
+DRS is particularly interesting because it's one of the few major-ish Elder tracks (Mixolydian is
+considered "major" and only differentiates from major/Ionian in that it has a flat 7th).
 
 Tonally, it sounds very simple. I'd be shocked if it was much more complicated than Nick's '61 SG,
-BAT Pharaoh, a delay pedal (EQD Dispatch Master?), and his Sound City 120 (modded to DR103 spec). I
-can get a very similar tone with my own SG, Pharaoh, El Capistan, and Hi-Tone amp, which is also
-adapted from the Hiwatt DR circuit.
+some kind of fuzz (or a RAT), a delay pedal (EQD Dispatch Master?), and his Sound City 120 (modded
+to DR103 spec). I can get a very similar tone with my own SG, Pharaoh, El Capistan, and Hi-Tone
+amp, which is also adapted from the Hiwatt DR circuit.
 
 Live video footage used for corroboration/reference...
 
@@ -974,8 +971,6 @@ note runs -- too many to individually annotate. Listen to the recording for timi
 Also, parts of this solo are a bit "sloppy," so don't worry if you can't exactly nail it. That's
 part of what makes it amazing -- its imperfections. It wasn't recorded over and over and over
 again until it was clinically perfect. Rather, it sounds very organic and real. I love it. :-)
-
-Oh, and it's entirely in D major.
 
     d   d   d      u  u    d      u d     u    u    u       u  d
 D||------------------------------------------------------------------|
