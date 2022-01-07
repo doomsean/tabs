@@ -47,6 +47,7 @@ Thank you, and enjoy!
 
 #### Elder - Omens (2020)
 
+01 - [Omens](https://github.com/doomsean/tabs/blob/master/Elder/Omens/01%20Omens.txt)  
 02 - [In Procession](https://github.com/doomsean/tabs/blob/master/Elder/Omens/02%20In%20Procession.txt)  
 03 - [Halcyon](https://github.com/doomsean/tabs/blob/master/Elder/Omens/03%20Halcyon.txt)  
 04 - [Embers](https://github.com/doomsean/tabs/blob/master/Elder/Omens/04%20Embers.txt)  
@@ -70,4 +71,4 @@ Email: [seidemiller@gmail.com](mailto:seidemiller@gmail.com)
 Web: [https://www.dyingsuneffects.com](https://www.dyingsuneffects.com)  
 Instagram: [@dyingsuneffects](https://www.instagram.com/dyingsuneffects)
 
-Copyright 2021 Sean Eidemiller
+Copyright 2022 Sean Eidemiller
