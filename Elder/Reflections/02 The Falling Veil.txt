@@ -40,6 +40,9 @@ A few riffs first, then the structure...
 
 -- Guitar I --
 
+NOTE: I'm not 100% sure about this. Neither Michael nor Nick seems to play this part live, so
+there's no video footage that I'm aware of.
+
 :BEGIN RIFF 1-I
 
    Bb(add9)                 *may not be played
@@ -52,6 +55,9 @@ C|----------------------------------------------------------|
    d   u d  u u d  u    u u d  u d  u u d  u    u d   d
 
 :END RIFF 1-I
+
+NOTE: This, however, I DO hear live, and I've seen Michael play it. So, it could be that both
+guitars play RIFF 1-II, and then they split off to play RIFF 2-I and 2-II.
 
 :BEGIN RIFF 2-I
                                      *could also be open G (5th) string
@@ -183,12 +189,12 @@ G|------0-0-0-0-0-0------------0-0-0------------------|
 C|----------------------------------------------------|
 
                                         *lift your fingers through these arps; don't hold notes
-D|--------------------------------------10-------10-----||
-A|-5-----------------8----8--8-------------10-------8---||
-F|-5-----------------9----9--9----------------11------9-||
-C|-5----------------10---10-10--------------------------||
-G|------0-0-0-0-0-0---------------0-0-0-----------------||
-C|------------------------------------------------------||
+D|--------------------------------------10-------8-----||
+A|-5-----------------8----8--8-------------10------8---||
+F|-5-----------------9----9--9----------------11-----9-||
+C|-5----------------10---10-10-------------------------||
+G|------0-0-0-0-0-0---------------0-0-0----------------||
+C|-----------------------------------------------------||
 
 ==== [2:49] ====
 
@@ -411,11 +417,19 @@ C|--------------------10-----9-------------3-----3-------3-----3-------3-----3--
 :BEGIN PART B-I
 
 NOTE: This part is insanely difficult to hear. I think what's hapening is something like (one of)
-the following two possibilities, both of which seem very similar to what Michael plays live (Nick
-is playing the solo). And, in both of them, lift your fingers through the arpeggios; only let the
-low C ring out.
+the following possibilities, all of which seem very similar to what Michael plays live (Nick is
+is playing the solo).
 
 1)
+
+D|-------------------------------------------|
+A|-------------------------------------------|
+F|---------5-------------5-------------5-----|
+C|---0-3p0-------0-3p0-------0---0-3p0-----0-|
+G|---------------------5---------------------|
+C|-0-----------0---------------0-------------|
+
+2)
 
 D|-------------------------------------------|
 A|-------------------------------------------|
@@ -424,7 +438,7 @@ C|-----3p0---------3p0-------0-----3p0-----0-|
 G|---5-----------5-----5---------5-----------|
 C|-0-----------0---------------0-------------|
 
-2)
+3)
 
 D|-------------------------------------------|
 A|-------------------------------------------|
@@ -535,7 +549,7 @@ C|-----------------0-0------------------------15~---|
 
 ==== [5:03] ====
 
-NOTE: These parts are difficult to hear (the arpeggios in particular), and the only available
+NOTE: These parts are also difficult to hear (the arpeggios in particular), and the only available
 video footage isn't very good, so I won't say that I'm 100% sure about them. This is what they
 sound like to me when I slow down the studio recording, and it's how I play them, personally. There
 may be a few differences in what Michael and Nick are playing, though. (Michael plays Guitar I
@@ -690,8 +704,6 @@ G||-----------------------------------------------------------------------||
 C||-----------------------------------------------------------------------||
 
 ==== [5:43] ====
-
-TODO: HERE!
 
 -- Guitar I --
 
