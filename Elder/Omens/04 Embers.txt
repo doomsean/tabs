@@ -2,7 +2,7 @@ Artist: Elder
 Song: Embers
 Album: Omens (2020)
 
-Transcription: Sean Eidemiller [seidemiller@gmail.com] (2021-22)
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020-2022)
 
 Instrument: Guitar I and II
 Tuning: Drop C (CGCFAD)
@@ -28,6 +28,9 @@ Occasionally, however, one or the other is positioned more to the center.
 ==== [0:02] ====
 
 -- Guitar I --
+
+NOTE: I'm guessing that all the picked notes here are downstrokes. It sounds most like the
+recording when I do that.
 
 :BEGIN PART A-I
 
@@ -943,6 +946,6 @@ RIFF 6 x2
 
 ///
 
-Transcription copyright 2020 Sean Eidemiller (seidemiller@gmail.com).
+Transcription copyright 2020-2022 Sean Eidemiller (seidemiller@gmail.com).
 
 The song itself belongs to its composers and/or publishers noted in the headers above.
