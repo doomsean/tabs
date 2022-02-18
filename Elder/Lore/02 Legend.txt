@@ -2,7 +2,7 @@ Artist: Elder
 Song: Legend
 Album: Lore (2015)
 
-Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020)
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2020-2022)
 
 Instrument: Guitar I, II, and III
 Tuning: Drop C (CGCFAD)
@@ -616,6 +616,13 @@ NDS records a loop of Guitar I and then plays Guitar II in this section.
 
 -- Guitar I --
 
+NOTE: This could be played in many different ways, and neither Nick nor Michael seem to play live
+what's on the recording. Nick plays some of this interspersed with various lead licks, and Michael
+seems to mostly stay on the bottom string instead after the pull-off runs. So... what I've
+transcribed here is mostly a guess. You could also play all of the fretted 7s on the 6th string
+as the open 5th string, and you could move the "flair" on the 4th string up the neck on the 5th
+string.
+
 D|-----------------------------------------------------------------|
 A|-----------------------------------------------------------------|
 F|-----------------------------------------------------------------|
@@ -683,6 +690,16 @@ F|-------------------------------|
 C|-------------------------------|
 G|-6p5p3-5p3p0-6p5p3-5p3---------|
 C|-----------------------5h7p5---|
+
+NOTE: An example of what I was talking about in the note at the beginning of the part...
+
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+F|-------------------------------------------------------------------|
+C|-------------------------------------------------------------------|
+G|-0---0-0---0---0-10p0-10h12p10-10~---0---0-0---0---0---0-0-0-0-0---|
+C|-------------------------------------------------------------------|
+                                                                 .
 
 -- Guitar II --
 
@@ -1065,6 +1082,6 @@ Listen to the recording to hear how it fits into the chord progression.
 
 ///
 
-Transcription copyright 2020 Sean Eidemiller (seidemiller@gmail.com).
+Transcription copyright 2020-2022 Sean Eidemiller (seidemiller@gmail.com).
 
 The song itself belongs to its composers and/or publishers noted in the headers above.
