@@ -1,0 +1,303 @@
+Artist: Native
+Song: Books on Tape
+Album: Orthodox
+
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2022)
+
+Instruments: Guitar I and II
+Tuning: DGDGBbD (open Gm)
+Key: Gm
+Tempo: Varies, but generally ~176
+Length: 5:32
+
+==== NOTES ====
+
+Live video footage used for corroboration/reference...
+
+https://www.youtube.com/watch?v=pO4Vrr1RirA
+https://www.youtube.com/watch?v=LJ1K5DTocsw
+
+==== [0:00] ====
+
+-- Guitar I --
+
+This part is finger-picked; notation as follows...
+
+t = thumb
+i = index
+m = middle
+r = ring
+p = pinky (not used)
+
+:BEGIN RIFF 1
+
+    tm   t  i t  r
+D |--------------0-----------------0----|
+Bb|-12----------------12----------------|
+G |---------0-----------------0---------|
+D |-12---12---12------12---12---12------|
+G |-------------------------------------|
+D |-------------------------------------|
+
+:END RIFF 1
+
+:BEGIN RIFF 1a
+
+NOTE: I'm not 100% sure that both the 2nd and 4th strings are plucked simultaneously; it could just
+but the 12th fret on the 2nd string. It could also be a different arpeggio pattern altogehter
+(difficult to hear/isolate).
+
+    tm   t  i t  r t  i tm   t  i t  r t  i
+D |--------------0-------------------0------|
+Bb|-12------------------12------------------|
+G |---------0---------0---------0---------0-|
+D |-12---12---12---12---12---12---12---12---|
+G |-----------------------------------------|
+D |-----------------------------------------|
+
+:END RIFF 1a
+
+Repeat RIFF 1 until 0:22, then RIFF 1a or some variation thereof until 0:44.
+
+-- Guitar II --
+
+:BEGIN RIFF 2
+
+NOTE: The last two open strings (the pull-off on the 5th and the open 4th) are sometimes omitted.
+
+D |-----------------------------------|
+Bb|-----------------7p0--------11p0---|
+G |-------7p0-----------------------0-|
+D |-----------5-8p0-------------------|
+G |-5h7p0---------------0-7/10--------|
+D |-----------------------------------|
+
+:END RIFF 2
+
+Repeat RIFF 2 until 0:44.
+
+==== [0:44] ====
+
+-- Guitar I --
+
+There's definitely a POG at this point, with... 5ths? Octaves? The delay seems prominent as well.
+
+NOTE: Not completely sure about the exact chord shapes, but I think these are very close. They're
+definitely in the right part(s) of the neck.
+
+                                      *possibly a delay repeat
+D ||-0-------------0-------------0----0-------0---------------||
+Bb||-12------------12------------12---12------7---------------||
+G ||-0-------------0-------------0----0-------0---------------|| x2
+D ||-12------------12------------12---12------7---------------||
+G ||----------------------------------------------------------||
+D ||----------------------------------------------------------||
+
+-- Guitar II --
+
+Gm (i) and Cm7 (iv) chords voiced like the following.
+
+     Gm           Cm7
+D |-(0)----------(0)-----------|
+Bb|-(0)-----------2------------|
+G |--0------------0------------|
+D |--5------------1------------|
+G |--0------------0------------|
+D |--5-------------------------|
+
+Listen to the recording for strumming pattern, muting, and intensity.
+
+==== [0:55] ====
+
+-- Guitar I --
+
+This part definitely won't sound "right" without a POG (or something similar).
+
+D ||------------------------------------------------------------||
+Bb||------12--------------12-------------7----------------------||
+G ||------------------------------------------------------------||
+D ||-12--------------10--------------7----------5---------------||
+G ||------------------------------------------------------------||
+D ||------------------------------------------------------------||
+
+-- Guitar II --
+
+Same Gm/Cm7 progression as in previous part.
+
+==== [1:06] ====
+
+-- Guitar I --
+
+Again, a POG is critical to getting the right sound here.
+
+D ||----------------------------------------------------|
+Bb||----------------------------------------------------|
+G ||-5h7----------------------5h7-----------------------|
+D ||------------------------------------5h8-------------|
+G ||----------------------------------------------------|
+D ||----------------------------------------------------|
+
+D |------------------------------------------------------||
+Bb|------------------------------------------------------||
+G |-5h7----------------------5h7----------------(0)------|| x4
+D |------------------------------------5h8-------5--p0---||
+G |------------------------------------------------------||
+D |------------------------------------------------------||
+
+-- Guitar II --
+
+Gm/Cm7 progression until 1:54, when you hear the following lick (very subtle).
+
+          *possibly a slide up to 8
+D |------------|
+Bb|------------|
+G |------------|
+D |-5h7---8----|
+G |------------|
+D |------------|
+
+==== [1:58] ====
+
+-- Guitar I --
+
+NOTE: This gets a bit difficult to hear with the POG, but I think he's playing mostly eighth note
+chords with these shapes.
+
+D |-0-------------0------------|
+Bb|-0-------------0------------|
+G |-0-------------0------------|
+D |-12------------5------------|
+G |----------------------------|
+D |----------------------------|
+
+And sometimes I think I hear transitions like this...
+
+D |-0-----0----0--0--0--0--0--0--0--0--|
+Bb|-0-----0----0--0--0--0--0--0--0--0--|
+G |-0-----0----0--0--0--0--0--0--0--0--|
+D |-5/7---8----12-12-12-12-12-12-12-12-|
+G |------------------------------------|
+D |------------------------------------|
+
+...or...
+
+D |-0-0-0-0-0-0-0-0-0----0----0--0--0--0--0--0--0--0--|
+Bb|-0-0-0-0-0-0-0-0-7----0----0--0--0--0--0--0--0--0--|
+G |-0-0-0-0-0-0-0-0-0----7----0--0--0--0--0--0--0--0--|
+D |-5-5-5-5-5-5-5-5-7----7----12-12-12-12-12-12-12-12-|
+G |---------------------------------------------------|
+D |---------------------------------------------------|
+
+Sometimes I think I hear a different chord voicing as well, or maybe it's bleed-through from the
+other guitar?
+
+D |-0------------|
+Bb|-0------------|
+G |-5------------|
+D |-5------------|
+G |--------------|
+D |--------------|
+
+There's a lot you can do that sounds great, basically.
+
+-- Guitar II --
+
+D |------------|
+Bb|------------|
+G |-0----(0)---|
+D |-5h7---8----|
+G |------------|
+D |------------|
+
+...followed by the same Gm/Cm7 progression with the above riff often (but not always) used before
+a transition.
+
+==== [2:28] ====
+
+-- Guitar I --
+
+Harmonics and feedback with the POG.
+
+-- Guitar II --
+
+Silent? Although, on the Audiotree video, you can see him playing harmonics in a pattern very
+similar to this (possibly exactly this?)...
+
+D |--------------------------<7>--------|
+Bb|---------------------<7>-------------|
+G |-<5>--<7>-------<7>------------<5>---|
+D |-----------<7>-----------------------|
+G |-------------------------------------|
+D |-------------------------------------|
+
+==== [2:40] ====
+
+-- Guitar I --
+
+Again, lots of POG, along with delay and reverb? Perhaps some kind of warbly modulation as well?
+
+NOTE: I think there's just one fundamental note being played here and the other tones are coming
+from the POG, although he could be playing the same chords as in the part at 1:58.
+
+    *          *both notes held for 4 measures
+D |----------------------|
+Bb|----------------------|
+G |----------------------|
+D |-12---...---5---...---|
+G |----------------------|
+D |----------------------|
+
+-- Guitar II --
+
+NOTE: This part is difficult to see in all the live footage available. What I've transcribed here
+is definitely in the right part of the neck, but it's a bit of a guess.
+
+                                            *could also be a hammer-on from open string
+D ||(0)---------------------------------------------------------(0)--...---||
+Bb||-0-----------------------(0-0)----------------(0---0-0-0-0)--0---...---||
+G ||-0------------------------7-7---5---(0)-7h10---0---0-0-0-0---0---...---|| x2
+D ||-5------------------------0-0---0---(0)-0------8---8-8-8-8---1---...---||
+G ||-0------------------------7-7---7--------------x---x-x-x-x---3---...---||
+D ||-5---------------------------------------------8---8-8-8-8-------...---||
+                                .   .          .             .   *hold for 4 measures
+
+==== [3:02] ====
+
+-- Guitar I --
+
+Same effects as in the previous part.
+
+NOTE: The final half note in the first line is definitely played live, but I'm not sure if it's on
+the studio recording.
+
+D ||-----------------------------------------0--------------|
+Bb||---------------0----------------------------------------|
+G ||----------------------------0---------------------------|
+D ||-12---------------------------------------------12------|
+G ||--------------------------------------------------------|
+D ||--------------------------------------------------------|
+
+D |----------------------------------------0------------||
+Bb|--------------0--------------------------------------||
+G |---------------------------0-------------------------|| x4
+D |-5---------------------------------------------------||
+G |-----------------------------------------------------||
+D |-----------------------------------------------------||
+
+-- Guitar II --
+
+Ends on this one chord and then he plays around with some sort of effect that I'm not familiar with
+until the track fades out.
+
+D |(0)-----------------------|
+Bb|(0)-----------------------|
+G |-0------------------------|
+D |-4------------------------|
+G |-0------------------------|
+D |-5------------------------|
+
+///
+
+Transcription copyright 2022 Sean Eidemiller (seidemiller@gmail.com).
+
+The song itself belongs to its composers and/or publishers noted in the headers above.
