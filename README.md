@@ -45,6 +45,10 @@ Thank you, and enjoy!
 04 - [Blind](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/04%20Blind.txt)  
 06 - [Thousand Hands](https://github.com/doomsean/tabs/blob/master/Elder/Reflections/06%20Thousand%20Hands.txt)
 
+#### Elder - The Gold & Silver Sessions (2019)
+
+03 - [Weißensee (Outro)](https://github.com/doomsean/tabs/blob/master/Elder/GS/03%20Weissensee.txt)
+
 #### Elder - Omens (2020)
 
 01 - [Omens](https://github.com/doomsean/tabs/blob/master/Elder/Omens/01%20Omens.txt)  
