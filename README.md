@@ -67,7 +67,7 @@ Thank you, and enjoy!
 
 #### Ryan Adams - Prisoner B-Sides (2017)
 
-02 - [Juli](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner%20B%20DSides/02%20Juli.txt)
+02 - [Juli](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner%20B%2DSides/02%20Juli.txt)
 
 #### Weedpecker - III (2018)
 
