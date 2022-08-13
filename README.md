@@ -65,6 +65,10 @@ Thank you, and enjoy!
 
 06 - [Stay With Me](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Ryan%20Adams/06%20Stay%20With%20Me.txt)
 
+#### Ryan Adams - Prisoner B-Sides (2017)
+
+02 - [Juli](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner%20B%20DSides/02%20Juli.txt)
+
 #### Weedpecker - III (2018)
 
 03 - [Liquid Sky](https://github.com/doomsean/tabs/blob/master/Weedpecker/III/03%20Liquid%20Sky.txt)
