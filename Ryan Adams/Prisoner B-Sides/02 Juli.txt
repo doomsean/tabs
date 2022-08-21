@@ -6,7 +6,7 @@ Transcription: Sean Eidemiller [seidemiller@gmail.com] (2022)
 
 Instrument: Guitar I and II
 Tuning: E standard, capo 5nd fret
-Key/Scale: Am/C
+Key: Am/C
 Length: 3:53
 
 ==== Notes ====
