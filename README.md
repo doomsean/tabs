@@ -65,8 +65,9 @@ Thank you, and enjoy!
 
 06 - [Stay With Me](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Ryan%20Adams/06%20Stay%20With%20Me.txt)
 
-#### Ryan Adams - Prisoner B-Sides (2017)
+#### Ryan Adams - Prisoner (2017)
 
+03 - [Doomsday](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner/03%20Doomsday.txt)  
 09 - [Outbound Train](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner/09%20Outbound%20Train.txt)
 
 #### Ryan Adams - Prisoner B-Sides (2017)
