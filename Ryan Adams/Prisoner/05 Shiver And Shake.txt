@@ -1,0 +1,117 @@
+Artist: Ryan Adams
+Song: Shiver And Shake
+Album: Prisoner (2017)
+
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2022)
+
+Instrument: Guitar I and II
+Tuning: E standard
+Key: E or B Mixolydian
+Length: 3:05
+
+==== Notes ====
+
+Guitar I is acoustic strumming the rhythm and Guitar I is the electric playing very gentle chords
+and arpeggios throughout the second half of the song.
+
+I'm not really sure whether I'd call this song E major or B Mixolydian. It depends on which note
+you feel is the tonal center. I would say B, given that the vocals basically drone on B. And Ryan
+is certainly no stranger to playing in Mixolydian.
+
+==== [0:00] ====
+
+-- Guitar I --
+
+This is the main strumming pattern throughout the entire song. Ryan uses his thumb to pluck the low
+single notes on the 5th and 6th strings and then he generally strums down with his index fingernail
+(or the left side of his thumb) and up with his thumbnail. The notes are allowed to ring out.
+
+Also, don't worry about hitting all of the notes in the chord on every strum; it's very
+fluid/organic. No doubt he sometimes hits the low note while sturmming (rather than plucking) as
+well. I think he may frequently not be hitting the high E string as well.
+
+   Bsus4          C#m7           Asus2          E5  *may also be muting the 5th string
+e|-----0----0-0-0-----0----0-0-0-----0----0-0-0-----0----0-0-0-|
+B|-----0----0-0-0-----0----0-0-0-----0----0-0-0-----0----0-0-0-|
+G|-----4----4-4-4-----4----4-4-4-----4----4-4-4-----4----4-4-4-|
+D|-----4----4-4-4-----2----2-2-2-----2----2-2-2-----2----2-2-2-|
+A|-2--------------4--------------0------------------2----2-2-2-|
+E|----------------------------------------------0--------------|
+   d   d    u d u d   d    u d u d   d    u d u d   d    u d u
+
+Occassionally he alters the strumming pattern to something along the lines of...
+
+   Bsus4          C#m7
+e|-----0----0-0-0-----0---0-0-0-0-...-|
+B|-----0----0-0-0-----0---0-0-0-0-...-|
+G|-----4----4-4-4-----4---4-4-4-4-...-|
+D|-----4----4-4-4-----2---2-2-2-2-...-|
+A|-2--------------4---------------...-|
+E|--------------------------------...-|
+   d   d    u d u d   d   d u d u
+
+In other words: four strums just before the chord change as opposed to three.
+
+And, in certain parts, he stays on the A rather than going to the E...
+
+   Bsus4          C#m7           Asus2
+e|-----0----0-0-0-----0----0-0-0-----0----0-0-0-----0----0-0-0-|
+B|-----0----0-0-0-----0----0-0-0-----0----0-0-0-----0----0-0-0-|
+G|-----4----4-4-4-----4----4-4-4-----4----4-4-4-----4----4-4-4-|
+D|-----4----4-4-4-----2----2-2-2-----2----2-2-2-----2----2-2-2-|
+A|-2--------------4--------------0--------------0--------------|
+E|-------------------------------------------------------------|
+   d   d    u d u d   d    u d u d   d    u d u d   d    u d u
+
+That's pretty much all you need to know about the rhythm part.
+
+-- Guitar II --
+
+I believe that much of what we're hearing from this guitar is the "wet" signal from a reverb. The
+attack is there, but it seems dominated by the decay. As far as _what's_ being played, it's mostly
+slow, gentle strums of the Guitar I chords (notably Bsus4) and simple/slow arpeggios.
+
+   Bsus4
+e|(0)-----|
+B|-0------|
+G|-4------|
+D|-4------|
+A|-2------|
+E|--------|
+
+As for the arpeggios, an example of an E5 arp at [1:31]...
+
+   E5
+e|----------------0----7------|
+B|-----------0----------------|
+G|----------------------------|
+D|------9---------------------|
+A|-7--------------------------|
+E|----------------------------|
+
+Basically, whatever chord Guitar I is playing, try various (simple) arpeggios of the same chord,
+favoring the open strings when possible. Ryan plays the open E and B strings often throughout.
+
+And here's how I play the outro "solo" at [2:37]...
+
+NOTE: Don't pay too much attention to spacing here; listen to the recording for timing.
+
+e|-------4-------------------------9------------------|
+B|-----5--h7------------9----12-----------------------|
+G|-6------------------------------------11------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+e|-0------9---------...--------9---------...---0------9---------...---|
+B|---12-------------...---12-------------...-----12-------------...---|
+G|-------------11---...-------------11---...---------------11---...---|
+D|------------------...------------------...--------------------...---|
+A|------------------...------------------...--------------------...---|
+E|------------------...------------------...--------------------...---|
+
+///
+
+Transcription copyright 2022 Sean Eidemiller (seidemiller@gmail.com).
+
+The song itself belongs to its composers and/or publishers noted in the headers above.

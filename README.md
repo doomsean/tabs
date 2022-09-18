@@ -68,6 +68,7 @@ Thank you, and enjoy!
 #### Ryan Adams - Prisoner (2017)
 
 03 - [Doomsday](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner/03%20Doomsday.txt)  
+05 - [Shiver And Shake](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner/05%20Shiver%20And%20Shake.txt)  
 09 - [Outbound Train](https://github.com/doomsean/tabs/blob/master/Ryan%20Adams/Prisoner/09%20Outbound%20Train.txt)
 
 #### Ryan Adams - Prisoner B-Sides (2017)
