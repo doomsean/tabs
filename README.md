@@ -59,7 +59,7 @@ Thank you, and enjoy!
 
 #### Elder - Innate Passage (2022)
 
-04 - [Merged In Dreams - Ne Plus Ultra (part 1/2)](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/04%20Merged%20In%20Dreams.txt)
+04 - [Merged In Dreams - Ne Plus Ultra)](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/04%20Merged%20In%20Dreams.txt)
 
 #### Khruangbin - The Universe Smiles upon You (2015)
 
