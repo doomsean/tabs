@@ -59,6 +59,7 @@ Thank you, and enjoy!
 
 #### Elder - Innate Passage (2022)
 
+01 - [Catastasis](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/01%20Catastasis.txt)  
 03 - [Coalescence](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/03%20Coalescence.txt)  
 04 - [Merged In Dreams - Ne Plus Ultra](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/04%20Merged%20In%20Dreams.txt)  
 05 - [The Purpose](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/05%20The%20Purpose.txt)
@@ -99,4 +100,4 @@ Email: [seidemiller@gmail.com](mailto:seidemiller@gmail.com)
 Web: [https://www.dyingsuneffects.com](https://www.dyingsuneffects.com)  
 Instagram: [@dyingsuneffects](https://www.instagram.com/dyingsuneffects)
 
-Copyright 2022 Sean Eidemiller
+Copyright 2023 Sean Eidemiller
