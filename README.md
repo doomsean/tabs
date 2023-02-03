@@ -70,7 +70,7 @@ Thank you, and enjoy!
 
 #### Methadone Skies - Retrofuture Caveman (2021)
 
-01 - [Retrofuture Caveman (Intro)](https://github.com/doomsean/tabs/blob/master/Methadone%20Skies/01%20Retrofuture%20Caveman.txt)
+01 - [Retrofuture Caveman (Intro)](https://github.com/doomsean/tabs/blob/master/Methadone%20Skies/Retrofuture%20Caveman/01%20Retrofuture%20Caveman.txt)
 
 #### Native - Orthodox (2013)
 
