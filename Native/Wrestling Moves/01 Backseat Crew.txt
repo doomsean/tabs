@@ -18,7 +18,7 @@ two guitars and the bass. This song is a great example of that.
 
 Guitar I is Edward (Ed?) O'Neill on the left and Guitar II is Daniel Evans on the right. They're
 both using a fair bit of reverb and delay, and Edward in particular is using some kind of POG
-(likely)  or Whammy-like effect for octave and pitch-shifting.
+or Whammy-like effect for octave and pitch-shifting.
 
 Live video footage used for corroboration/reference...
 
@@ -33,9 +33,9 @@ Silent.
 
 -- Guitar II --
 
-Feedback with a POG or a Whammy or something similar, gradually bringing the volume up. The
-fundamental note/chord is a C#/C#m. I don't have either of those pedals, so I can't verify. It
-sounds very organ-like.
+Feedback with a POG or a Whammy or something similar (I'm guessing a Whammy), gradually bringing
+the volume up. The fundamental note/chord is a C#/C#m. I don't have either of those pedals, so I
+can't verify. It sounds very organ-like.
 
 NOTE: It's possible that Guitar I (Edward) is playing this, creating a loop, and letting it play
 over the the next part at 0:17. This part is in the center; not distinctly panned right or left.
@@ -213,7 +213,7 @@ Silent.
 
 -- Guitar I --
 
-RIFF 2 x... a lot; turn on POG at ~2:07 and leave on for the rest of the song.
+RIFF 2 x... a lot; turn on Whammy/POG at ~2:07 and leave on for the rest of the song.
 
 -- Guitar II --
 
@@ -236,9 +236,9 @@ t = thumb
 The top row beneath the line is how you attack the note(s); the second and third rows are the
 fingers to use. Got it? Okay, let's go... ;p
 
-                    *flick down at 12th fret (for the 2nd string harmonic)
+                    *flick down at 12th fret
 e||-7---------------7---------------7---------------7---------------|
-B||-----9-----------0---9-----------0---9-----------0---9-----------|
+B||-----9---------------9---------------9---------------9-----------|
 G||---6---6---6---6---6---6---6---6---6---6---6---6---6---6---6---6-|
 D||---6---6-7-6---6---6---6-7-6---6---6---6-7-6---6---6---6-7-6---6-|
 A||-4-----------7---------------7---------------7---------------7---|
@@ -278,7 +278,7 @@ E||---------------------------------||
 
 -- Guitar I --
 
-NOTE: POG still going strong here. ;p
+NOTE: POG/Whammy still going strong here. ;p
 
 e||------------------------------------------------------------------|
 B||------------------------------------------------------------------|
