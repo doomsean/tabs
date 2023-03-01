@@ -75,6 +75,7 @@ Thank you, and enjoy!
 #### Native - Wrestling Moves (2010)
 
 01 - [Backseat Crew](https://github.com/doomsean/tabs/blob/master/Native/Wrestling%20Moves/01%20Backseat%20Crew.txt)  
+04 - [Ponyboy](https://github.com/doomsean/tabs/blob/master/Native/Wrestling%20Moves/04%20Ponyboy.txt)
 
 #### Native - Orthodox (2013)
 

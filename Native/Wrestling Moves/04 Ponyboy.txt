@@ -1,0 +1,590 @@
+Artist: Native
+Song: Ponyboy
+Album: Wrestling Moves (2010)
+
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2023)
+
+Instruments: Guitar I and II
+Tuning: E standard
+Key: Em
+Tempo: 105 bpm
+Length: 4:47
+
+==== Notes ====
+
+Guitar I is Ed O'Neill on the left and Guitar II is Dan Evans on the right. They're both using a
+fair bit of reverb and delay, and Ed is using a POG at various points (noted) for the organ-like
+octave sounds.
+
+Legeng for the tapping parts...
+
+h = hammer-on with left hand
+t = tap with right hand
+p = pluck with right hand
+f = flick down with right hand
+
+i = index
+m = middle
+r = ring
+t = thumb
+
+The top row beneath the line is how you attack the note(s); the second and third rows are the
+fingers to use.
+
+Live video footage used for corroboration/reference...
+
+https://www.youtube.com/watch?v=TaimVmwjGCw
+https://www.youtube.com/watch?v=CHvU8-2c0g4
+https://www.youtube.com/watch?v=dFCFB1V0gSU
+
+==== [0:00] ====
+
+-- Guitar I --
+
+Left hand is fretting this chord...
+
+    Em (add11 with tapping part)
+e|-(0)-|
+B|--8--| m
+G|--9--| r
+D|--x--|
+A|--7--| i
+E|-----|
+
+:BEGIN RIFF 1
+
+NOTE: This sounds most like the recording if you only very gently tap the 12th fret on the 2nd
+string; more like pressing down, really. You don't want it to ring out too prominently.
+
+         *flick down while pulling off
+                      *flick down while pulling off
+e|------(0)--------------|
+B|----12p8-----------(8)-|
+G|---------12p9-12/14p9--|
+D|-----------------------|
+A|-12p7------------------|
+E|-----------------------|
+   t  t   t    t
+   i  m   m    m
+
+:END RIFF 1
+
+RIFF 1 x16
+
+-- Guitar II --
+
+NOTE: Dan uses a two-handed tapping technique here; his left hand isn't simply holding a chord. He
+uses his left-hand index and middle fingers to tap the 3rd and 4th frets, respectively, and his
+right-hand fingers to tap the 7th and 8th frets. Only the pull-offs (flick-downs, more like) that
+don't coincide with another are prominently heard. There's really no good way to annotate this,
+unfortunately. I've tried my best.
+
+Played in isolation, this sounds like a C major chord.
+
+:BEGIN RIFF 2
+
+           *     *flick down while pulling off with right-hand fingers
+              *pull-off with left-hand fingers
+e|--------(0)---(0)|
+B|-------8p0---8p0-|
+G|---4p0-----4p0---|
+D|-----------------|
+A|-3p0-7p0---3-7p0-|
+E|-----------------|
+   t t t t   t t
+   i m i i   m m
+             i i
+
+:END RIFF 2
+
+RIFF 2 x16
+
+==== [0:19] ====
+
+-- Guitar I --
+
+Very similar to RIFF 1, but at the 2nd fret and without the last pull-off.
+
+    Bm
+e|-(0)-|
+B|--3--| m
+G|--4--| r
+D|--x--|
+A|--2--| i
+E|-----|
+
+:BEGIN RIFF 3
+
+       *flick off (downward) at 7th fret
+e|----(0)----------|
+B|---7p3-----------|
+G|-------7p4-7/9---|
+D|-----------------|
+A|-7/2-------------|
+E|-----------------|
+   t t   t   t
+   i m   m   m
+
+:END RIFF 3
+
+RIFF 3 x1
+(silent)
+RIFF 3 x1
+
+-- Guitar II --
+
+:BEGIN RIFF 4
+
+NOTE: Just a minor variation on RIFF 3; he holds the last chord.
+
+e|--------(0)------|
+B|-------8p0---8=--|
+G|---4p0-----4=----|
+D|-----------------|
+A|-3p0-7p0---3-7=--|
+E|-----------------|
+   t t t t   t t
+   i m i i   m m
+             i i
+
+:END RIFF 4
+
+RIFF 4 at 0:19 and then again at 0:25; hold until next part.
+
+==== [0:30] ====
+
+-- Guitar I --
+
+:BEING PART A-I
+
+NOTE: I _believe_ he (Ed) is playing the same chord voicing multiple times. Also, the E7 here would
+be an Em7 if it had a third; it wouldn't actually be E7 with a major third.
+
+              E7(no3)
+           e|---------------------------------------|
+           B|-3------------3------------------------|
+RIFF 3 x1  G|-4------------4------------------------|
+           D|(2)----------(2)-----------------------|
+           A|-2------------2------------------------|
+           E|---------------------------------------|
+
+              E7(no3)
+           e|----------------------------------------|
+           B|-3------------3------------3------------|
+RIFF 3 x1  G|-4------------4------------4------------|
+           D|(2)----------(2)----------(2)-----------|
+           A|-2------------2------------2------------|
+           E|----------------------------------------|
+
+:END PART A-I
+
+PART A-I x2
+
+-- Guitar II --
+
+Hold this (from RIFF 4 in the preceding part) and allow feedback...
+
+NOTE: When you're able to do so, switch to using your left-hand as seamlessly as possible so that
+the feedback continues. In so doing, you'll be in a better position for the next part.
+
+e|-----...---|
+B|-8=--...---|
+G|-----...---|
+D|-----...---|
+A|-7=--...---|
+E|-----...---|
+
+==== [0:50] ====
+
+-- Guitar I --
+
+Engage POG!
+
+NOTE: I don't know exactly how it's set (because I don't have one myself), but I'm fairly certain
+he's using a POG here, along with the volume knob for swells. Also, you shouldn't hear the attack
+of the note. Turn the volume down just before picking and then bring it up quickly to the point of
+nearly-out-of-control feedback.
+
+e||--------------------------------------------------------||
+B||--------------------------------------------------------||
+G||--------------------------------------------------------|| x2
+D||---------------------------12~-----------12~------------||
+A||-7~-----------7~----------------------------------------||
+E||--------------------------------------------------------||
+
+-- Guitar II --
+
+NOTE: In live footage, he finger-picks this part until the band gets louder at 1:30. On the
+studio recording, however, it sounds like he's using an actual pick throughout.
+
+:BEGIN PART B-II
+
+                                                            *not entirely sure about this; possibly
+                                                             7th fret on 5th string, or nothing
+e|--------------------------------------------------------------|
+B|------------------------8~----------------------------8-------|
+G|-----0----------0------------------0----------0----------(0)--|
+D|--------------------------------------------------------------|
+A|-7----------7-------7----------7----------7-------7-----------|
+E|--------------------------------------------------------------|
+
+e|--------------------------------------------------------------|
+B|------------------------0-----------------------------0-------|
+G|-----4~---------4------------------4~---------4---------------|
+D|--------------------------------------------------------------|
+A|-3----------3-------3----------3----------3-------3-------3---|
+E|--------------------------------------------------------------|
+
+:END PART B-II
+
+Another way he might be playing it, which would explain what I hear on the recording (although, I
+can't be sure that I'm not hearing delay repeats)...
+
+                                                                *possibly a delay repeat
+e|------------------------------------------------------------------|
+B|------------------------8~----------------------------8-------8---|
+G|-----0----------0------------------0----------0-------------------|
+D|------------------------------------------------------------------|
+A|-7----------7-------7----------7----------7-------7-------7-------|
+E|------------------------------------------------------------------|
+
+e|----------------------------------------------------------|
+B|--------------------0-----------------------------0-------|
+G|-4~---------4------------------4~---------4---------------|
+D|----------------------------------------------------------|
+A|--------3-------3----------3----------3-------3-------3---|
+E|----------------------------------------------------------|
+
+Anyway, play it whichever way you prefer. ;p
+
+PART B-II x2
+
+==== [1:10] ====
+
+-- Guitar I --
+
+POG still engaged.
+
+:BEGIN PART C-I
+
+e|-------------------------------------------------------------|
+B|-------------------------------------------------------------|
+G|-----7--/9---p0--------------------7--/9---p0----------------|
+D|-------------------------------------------------------------|
+A|-7---------------11~-----------7---------------11~-----------|
+E|-------------------------------------------------------------|
+
+NOTE: Light vibrato on 12th fret after picking the open string.
+
+e|----------------------------------------------------------|
+B|------0--------------------------0------------------------|
+G|----------------------------------------------------------|
+D|-12-------------------------12----------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+:END PART C-I
+
+PART C-I x2
+
+-- Guitar II --
+
+PART B-II x2
+
+==== [1:30] ====
+
+-- Guitar I --
+
+PART C-I x2, with more intensity; slightly different ending.
+
+-- Guitar II --
+
+PART B-II x2, with more intensity; slightly different ending.
+
+==== [1:51] ====
+
+-- Guitar I --
+
+Disengage POG.
+
+:BEGIN PART D-I
+
+e|-------------------7-------|
+B|------5--------------------|
+G|--------------7------------|
+D|---------------------------|
+A|-7-------------------------|
+E|---------------------------|
+
+:END PART D-I
+
+PART D-I x4
+
+-- Guitar II --
+
+:BEGIN PART D-II
+
+e|--------------------------------------------------------------|
+B|------8---------------12--------------------------------------|
+G|--------------------------------------4------------0----------|
+D|--------------------------------------------------------------|
+A|-7---------7/10-10----------10\--3---------3---3-------0------|
+E|--------------------------------------------------------------|
+
+:END PART D-II
+
+PART D-II x2
+
+==== [2:00] ====
+
+-- Guitar I --
+
+PART D-I x8
+
+-- Guitar II --
+
+PART D-II x4
+
+==== [2:18] ====
+
+They're both playing two chords here -- two measures of the first chord and then two measures of
+the second. I get the impression (from live footage) that the strumming pattern is somewhat
+improvisational. So... do whatever you feel like. ;p
+
+-- Guitar I --
+
+NOTE: The E7 would be an Em7 if it had a third.
+
+    E7(no3)                  Cmaj9(no5)
+e||-0-----------------------(0)-----------------------||
+B||(0)-----------------------3------------------------||
+G||-7------------------------4------------------------|| x2
+D||-x-----------------------(0)-----------------------||
+A||-7------------------------3------------------------||
+E||---------------------------------------------------||
+
+-- Guitar II --
+
+    Em(no5)                  Cmaj7
+e||(0)----------------------(0)-----------------------||
+B||-8-----------------------(0)-----------------------||
+G||-0------------------------4------------------------|| x2
+D||-x------------------------5------------------------||
+A||-7------------------------3------------------------||
+E||---------------------------------------------------||
+
+==== [2:36] ====
+
+Same chords as previous section (both guitars), but with a different strumming pattern (not
+difficult to hear). At 3:07, there's a single E7/Em7 chord stab that's allowed to ring out until
+3:15 (below).
+
+==== [3:15] ====
+
+-- Guitar I --
+
+POG back on!
+
+:BEGIN PART E-I
+
+Left hand is fretting a C9 with no (major) third of fifth.
+
+   C9(no3,no5)
+e|---|
+B|-3-| m
+G|-4-| r
+D|---|
+A|-3-| i
+E|---|
+
+* = flick down while-pulling off
+
+             *                             *             *                              *
+e|------------------------------------------------------------------------------------------|
+B|------12--p3--------------------------------------12--p3----------------------------------|
+G|---------------9=-----------------------p4-----------------16=-----------------------p4---|
+D|-12-(p0)-------------------------------------12-(p0)--------------------------------------|
+A|------------------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------------------|
+   t    t    f   t                         f   t    t    f   t                          f
+   i    m    m   i                         i   i    m    m   i                          i
+
+             *                             *             *                                   *
+e|-----------------------------------------------------------------------------------------------|
+B|------12--p3-------------------------------------------12--p3----------------------------------|
+G|---------------9--/12--p0---12=--------------p4-----------------16=-----------------------p4---|
+D|-12-(p0)------------------------------------------12-(p0)--------------------------------------|
+A|-----------------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------------|
+   t    t    f   t                              f   t    t    f   t                          f
+   i    m    m   i   i    i   i                 i   i    m    m   i                          i
+
+:END PART E-I
+
+PART E-I x2 with slightly abbreviated end on second play-through.
+
+-- Guitar II --
+
+NOTE: He's often sliding around the neck as he transitions from one chord to the other here. The
+strumming is very loose and laid-back.
+
+:BEGIN PART E-II
+
+              *vibrato as the chord rings out
+   Em(no5)    Cmaj7(no5)
+e|(0---0-0)--(0)--------------------------|
+B|-8---8-8----x---------------------------|
+G|-0---0-0----4~--------------------------|
+D|-x---x-x----x---------------------------|
+A|-7---7-7----3~--------------------------|
+E|----------------------------------------|
+
+   G6(no5)       Em(no5)
+e|(0----0--0)---(0)--------------------------|
+B|-12---12-12----8---------------------------|
+G|-0----0--0-----0---------------------------|
+D|-x----x--x-----x---------------------------|
+A|-10---10-10----7---------------------------|
+E|-------------------------------------------|
+
+NOTE: In the studio recording, what I _hear_ (it may be a ghost harmonic) is this, and it sounds
+really good, so it's what I generally play myself...
+
+   Emadd11    Em        Em7(no5)  G(no5)
+e|(0---0-0)----------------------(0)---------|
+B|-9---9-9------------------------12---------|
+G|-0---0-0----4---------4---------0----------|
+D|-7---7-7----5---------0---------x----------|
+A|------------7---------7---------10---------|
+E|-------------------------------------------|
+
+Live, though, it looks like he plays this...
+
+   Em(no5)       Em        Em7(no5)  G(no5)
+e|(0----0--0)-----------------------(0)---------|
+B|-17---17-17------------------------12---------|
+G|-16---16-16----4---------4---------0----------|
+D|-x----x--x-----5---------0---------x----------|
+A|-15---15-15----7---------7---------10---------|
+E|----------------------------------------------|
+
+:END PART E-II
+
+PART E-II x2
+
+==== [3:40] ====
+
+-- Guitar I --
+
+Disengage POG.
+
+:BEGIN PART F-I
+
+e|---------------------------------------|
+B|-3----3----8---------------------------|
+G|-4----4----9---------------------------|
+D|-x----x----x---------------------------|
+A|-3----3----7---------------------------|
+E|---------------------------------------|
+
+NOTE: It looks like he's grabbing the 10th freth with his index finger in the last chord, but I'm
+completely sure he's actually playing it.
+
+e|----------(10)--------------------------|
+B|-8----8----12---------------------------|
+G|-9----9----0----------------------------|
+D|-x----x----12---------------------------|
+A|-7----7---------------------------------|
+E|----------------------------------------|
+
+NOTE: In subsequent uses of this part, he doesn't grab the top strings and slide down. He just
+plays the same chord (voicing) a third time.
+
+e|(10----10)-----------------------7---\-----|
+B|-12----12----8---------8---------8---\-----|
+G|-0-----0-----9---------9--------(9)--\-----|
+D|-12----12----x---------x-------------------|
+A|-------------7---------7-------------------|
+E|-------------------------------------------|
+
+:END PART F-I
+
+PART F-I x2
+
+-- Guitar II --
+
+PART E-II x2, but with a simplified strumming pattern, like this (applied throughout)...
+
+e|(0----0----0)--------------------------|
+B|-8----8----x---------------------------|
+G|-0----0----4~--------------------------|
+D|-x----x----x---------------------------|
+A|-7----7----3~--------------------------|
+E|---------------------------------------|
+
+==== [4:05] ====
+
+-- Guitar I --
+
+Same as previous section, but with a slightly modified strumming pattern (not difficult to hear).
+There's also bit more dirt/drive.
+
+-- Guitar II --
+
+Likewise; same progression with a slightly modified strumming pattern. Also more drive.
+
+==== [4:32] ====
+
+-- Guitar I --
+
+e|-----------------------------------------------------------|
+B|-3----3----8---8-8-8-8-8---8-8-8-8-8---8-8-8-8-8---8-8-8-8-|
+G|-4----4----9---9-9-9-9-9---9-9-9-9-9---9-9-9-9-9---9-9-9-9-|
+D|-x----x----x---x-x-x-x-x---x-x-x-x-x---x-x-x-x-x---x-x-x-x-|
+A|-3----3----7---7-7-7-7-7---7-7-7-7-7---7-7-7-7-7---7-7-7-7-|
+E|-----------------------------------------------------------|
+
+e|(10---10-10-10-10-10---10-10-10-10-10---10-10-10-10-10---10-10)----|
+B|-12---12-12-12-12-12---12-12-12-12-12---12-12-12-12-12---12-12---\-|
+G|-0----0--0--0--0--0----0--0--0--0--0----0--0--0--0--0----0--0------|
+D|-12---12-12-12-12-12---12-12-12-12-12---12-12-12-12-12---12-12---\-|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+e|-----------------------------|
+B|-8---8-8-8-8-8---8-8-8-8-8---|
+G|-9---9-9-9-9-9---9-9-9-9-9---|
+D|-x---x-x-x-x-x---x-x-x-x-x---|
+A|-7---7-7-7-7-7---7-7-7-7-7---|
+E|-----------------------------|
+                           .
+
+-- Guitar II --
+
+e|----------(0---0-0-0-0-0---0-0-0-0-0---0-0-0)--|
+B|-8----8----x---x-x-x-x-x---x-x-x-x-x---x-x-x---|
+G|-0----0----4---4-4-4-4-4---4-4-4-4-4---4-4-4---|
+D|-x----x----x---x-x-x-x-x---x-x-x-x-x---x-x-x---|
+A|-7----7----3---3-3-3-3-3---3-3-3-3-3---3-3-3---|
+E|-----------------------------------------------|
+
+e|---------------------------------------------------|
+B|-12---12-12----8---8-8-8-8-8---8-8-8-8-8---8-8-8---|
+G|-0----0--0-----0---0-0-0-0-0---0-0-0-0-0---0-0-0---|
+D|-x----x--x-----x---x-x-x-x-x---x-x-x-x-x---x-x-x---|
+A|-10---10-10----7---7-7-7-7-7---7-7-7-7-7---7-7-7---|
+E|---------------------------------------------------|
+
+                                        *it may be Guitar I playing this slide down at the end
+e|-------------(0---0-0-0-0-0---0-0-0-0)7\--|
+B|-17---17-17---x---x-x-x-x-x---x-x-x-x-----|
+G|-x----x--x----4---4-4-4-4-4---4-4-4-4-----|
+D|-x----x--x----x---x-x-x-x-x---x-x-x-x-----|
+A|-15---15-15---3---3-3-3-3-3---3-3-3-3-----|
+E|------------------------------------------|
+
+///
+
+Transcription copyright 2023 Sean Eidemiller (seidemiller@gmail.com).
+
+The song itself belongs to its composers and/or publishers noted in the headers above.

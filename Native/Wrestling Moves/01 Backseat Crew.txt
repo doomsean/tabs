@@ -16,9 +16,9 @@ Musically, to me, this feels very C# minor. The chords used are C#m (i), E (III)
 and B (VII). Native are incredibly good at weaving together melodies with inversions created by the
 two guitars and the bass. This song is a great example of that.
 
-Guitar I is Edward (Ed?) O'Neill on the left and Guitar II is Daniel Evans on the right. They're
-both using a fair bit of reverb and delay, and Edward in particular is using some kind of POG
-or Whammy-like effect for octave and pitch-shifting.
+Guitar I is Ed O'Neill on the left and Guitar II is Dan Evans on the right. They're both using a
+fair bit of reverb and delay, and Ed in particular is using some kind of POG or Whammy-like
+effect for octave and pitch-shifting.
 
 Live video footage used for corroboration/reference...
 
@@ -37,8 +37,8 @@ Feedback with a POG or a Whammy or something similar (I'm guessing a Whammy), gr
 the volume up. The fundamental note/chord is a C#/C#m. I don't have either of those pedals, so I
 can't verify. It sounds very organ-like.
 
-NOTE: It's possible that Guitar I (Edward) is playing this, creating a loop, and letting it play
-over the the next part at 0:17. This part is in the center; not distinctly panned right or left.
+NOTE: It's possible that Guitar I (Ed) is playing this, creating a loop, and letting it play over
+the the next part at 0:17. This part is in the center; not distinctly panned right or left.
 
 ==== [0:17] ====
 
@@ -70,8 +70,8 @@ RIFF 1 x16
 
 -- Guitar II --
 
-NOTE: Daniel plays the power chord shape with his index, middle, and ring fingers so that he can
-hit the top string with his pinky. Also, if you isolate the right channel it kinda sounds like he's
+NOTE: Dan plays the power chord shape with his index, middle, and ring fingers so that he can hit
+the top string with his pinky. Also, if you isolate the right channel it kinda sounds like he's
 strumming twice (up and down), but the bounce-back is a (prominent) delay repeat.
 
     C#m7(no3)
