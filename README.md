@@ -72,6 +72,10 @@ Thank you, and enjoy!
 
 01 - [Retrofuture Caveman (Intro)](https://github.com/doomsean/tabs/blob/master/Methadone%20Skies/Retrofuture%20Caveman/01%20Retrofuture%20Caveman.txt)
 
+#### The Middle East - The Recordings of The Middle East (2009)
+
+03 - [Blood](https://github.com/doomsean/tabs/blob/master/The%20Middle%20East/Recordings/03%20Blood.txt)
+
 #### Native - Wrestling Moves (2010)
 
 01 - [Backseat Crew](https://github.com/doomsean/tabs/blob/master/Native/Wrestling%20Moves/01%20Backseat%20Crew.txt)  

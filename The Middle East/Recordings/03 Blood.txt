@@ -1,0 +1,206 @@
+Artist: The Middle East
+Song: Blood
+Album: The Recordings of The Middle East (2009)
+
+Transcription: Sean Eidemiller [seidemiller@gmail.com] (2023)
+
+Instrument: Guitar I (acoustic)
+Tuning: E standard, capo 4th fret
+Key: E
+Tempo: ~80 bpm
+Length: 5:27
+
+==== Notes ====
+
+Guitar I (acoustic) is finger-picked until 3:17. It's a relatively difficult pattern to get used to
+at first, and there are some moderately difficult chord transitions.
+
+Reminder: all fret numbers relative to the capo.
+
+==== [0:00] ====
+
+:BEGIN PART A-I
+
+Chord progression: E > B > C#m > G#m > E (I, V, vi, iii, I)
+
+   E       Bsus2   C#m     G#m     E
+e|-3---3---5---5---0---0---7---7---3---3---3---3---3---3---3---3---| a
+B|-5---5---3---3---1---1---8---8---5---5---5---5---5---5---5---5---| m
+G|---0---0---0---0---2---2---0---0---0---0---0---0---0---0---0---0-| i
+D|-----0-------0-------2-------9-------0-------0-------0-------0---| p
+A|-3---------------0-------7-------3-------3-------3-------3-------| p
+E|---------3-------------------------------------------------------| p
+
+:END PART A-I
+
+PART A-I x2
+
+==== [0:12] ====
+
+Older brother, restless soul, lie down
+Lie for a while with your ear against the earth
+And you'll hear your sister sleep-talking
+Say, "Your hair is long, but not long enough to reach
+Home to me
+But your beard
+Someday might be"
+
+PART A-I x2
+
+:BEGIN PART B-I
+
+NOTE: The same as A-I, but with the core progression repeated twice.
+
+   E       Bsus2   C#m     G#m     E       Bsus2   C#m     G#m     E
+e|-3---3---5---5---0---0---7---7---3---3---5---5---0---0---7---7---3---3---3---3---3---3---3---3---|
+B|-5---5---3---3---1---1---8---8---5---5---3---3---1---1---8---8---5---5---5---5---5---5---5---5---|
+G|---0---0---0---0---2---2---0---0---0---0---0---0---2---2---0---0---0---0---0---0---0---0---0---0-|
+D|-----0-------0-------2-------9-------0-------0-------2-------9-------0-------0-------0-------0---|
+A|-3---------------0-------7-------3---------------0-------7-------3-------3-------3-------3-------|
+E|---------3-------------------------------3-------------------------------------------------------|
+
+:END PART B-I
+
+PART B-I x1
+
+:BEGIN PART C-I
+
+Chord progression: B > E > B (V, I, V)
+
+   B                               Eadd9                           B
+e|-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---|
+B|-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---|
+G|---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0-|
+D|-------------------------------------2-------2-------2-------2-----------------------------------|
+A|-----2-------2-------2-------2---3-------3-------3-------3-----------2-------2-------2-------2---|
+E|-3-------3-------3-------3---------------------------------------3-------3-------3-------3-------|
+
+:END PART C-I
+
+PART C-I x1
+
+==== [0:42] ====
+
+And she'll wake up in a cold sweat on the floor
+Next to a family portrait drawn when you were four
+And beside a jar of two-cent coins that are no good no more
+She'll lay it aside
+
+:BEGIN PART D-I
+
+Chord progression: G#m > E > B (iii, I, V)
+
+    G#m7            Eadd9           B
+e||-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---||
+B||-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---||
+G||---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0-|| x3
+D||---------------------2-------2-----------------------------------||
+A||-----2-------2---3-------3-----------2-------2-------2-------2---||
+E||-0-------0-----------------------3-------3-------3-------3-------||
+
+   G#m7            Eadd9
+e|-3---3---3---3---3---3---3---3---|
+B|-3---3---3---3---3---3---3---3---|
+G|---0---0---0---0---0---0---0---0-|
+D|---------------------2-------2---|
+A|-----2-------2---3-------3-------|
+E|-0-------0-----------------------|
+
+:END PART D-I
+
+PART D-I x1
+
+==== [1:04] ====
+
+PART A-I x2
+
+==== [1:16] ====
+
+Older father, weary soul, you'll drive
+Back to the home you made on the mountainside
+With that ugly, terrible thing
+Those papers for divorce and a lonely ring
+A lonely ring
+Sit on your porch
+And pluck your strings
+
+PART A-I x2
+PART B-I x1
+PART C-I x1
+
+==== [1:46] ====
+
+Oh, and you'll find somebody you can blame
+And you'll follow the creek that runs out into the sea
+And you'll find the peace of the Lord
+
+PART D-I x1
+
+==== [2:01] ====
+
+PART A-I x4
+
+==== [2:26] ====
+
+Grandfather, weary soul, you'll fly
+Over your life once more before you die
+Since our grandma passed away
+You've waited for forever and a day
+Just to die
+Someday soon
+You will die
+
+PART A-I x2
+PART B-I x1
+PART C-I x1
+
+==== [2:56] ====
+
+Oh, it was the only woman you ever loved
+That got burnt by the sun too often when she was young
+And the cancer spread
+And it ran into her body and her blood
+And there's nothing you can do about it now
+
+Very similar to PART D-I, but what I think is happening here is actually...
+
+    G#m7            Eadd9           B
+e||-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---||
+B||-3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---3---||
+G||---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0-|| x2
+D||---------------------2-------2-----------------------------------||
+A||-----2-------2---3-------3-----------2-------2-------2-------2---||
+E||-0-------0-----------------------3-------3-------3-------3-------||
+
+    G#m7            Eadd9
+e||-3---3---3---3---3---3---3---3---||
+B||-3---3---3---3---3---3---3---3---||
+G||---0---0---0---0---0---0---0---0-|| x3
+D||---------------------2-------2---||
+A||-----2-------2---3-------3-------||
+E||-0-------0-----------------------||
+
+==== [3:17] ====
+
+At this points he starts strumming; first B for two bars, ie...
+
+   B
+e|-3-3-3-3-...-|
+B|-3-3-3-3-...-|
+G|-0-0-0-0-...-|
+D|-0-0-0-0-...-|
+A|-2-2-2-2-...-|
+E|-3-3-3-3-...-|
+
+Then, at 3:23, he starts strumming PART A-I repeatedly until 4:36.
+
+==== [4:36] ====
+
+The outro is also strummed, and is only a minor variation on the pre-chorus and chorus, with those
+same chords. It's easy to figure out if you've gotten this far. ;p
+
+///
+
+Transcription copyright 2023 Sean Eidemiller (seidemiller@gmail.com).
+
+The song itself belongs to its composers and/or publishers noted in the headers above.
