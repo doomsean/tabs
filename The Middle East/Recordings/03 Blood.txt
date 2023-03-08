@@ -12,7 +12,7 @@ Length: 5:27
 
 ==== Notes ====
 
-Guitar I (acoustic) is finger-picked until 3:17. It's a relatively difficult pattern to get used to
+Guitar I (acoustic) is finger-picked until . It's a relatively difficult pattern to get used to
 at first, and there are some moderately difficult chord transitions.
 
 Reminder: all fret numbers relative to the capo.
@@ -196,7 +196,7 @@ Then, at 3:23, he starts strumming PART A-I repeatedly until 4:36.
 
 ==== [4:36] ====
 
-The outro is also strummed, and is only a minor variation on the pre-chorus and chorus, with those
+The outro is also strummed, and is a minor variation on the pre-chorus and chorus, with those
 same chords. It's easy to figure out if you've gotten this far. ;p
 
 ///
