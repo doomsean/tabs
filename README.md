@@ -60,6 +60,7 @@ Thank you, and enjoy!
 #### Elder - Innate Passage (2022)
 
 01 - [Catastasis](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/01%20Catastasis.txt)  
+02 - [Endless Return](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/02%20Endless%20Return.txt)  
 03 - [Coalescence](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/03%20Coalescence.txt)  
 04 - [Merged In Dreams - Ne Plus Ultra](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/04%20Merged%20In%20Dreams.txt)  
 05 - [The Purpose](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/05%20The%20Purpose.txt)
